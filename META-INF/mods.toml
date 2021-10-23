@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="ambyss"
+version="1.2.5"
+displayName="Ambyss"
+credits="Made by LexiCodes and the Lexi Studios team"
+displayURL="https://rayanx.com"
+authors="LexiCodes"
+description='''
+A mod that adds more tools, ores and weapons
+'''
+
+[[dependencies.ambyss]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
