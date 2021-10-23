@@ -1,0 +1,8 @@
+{
+  "parent": "ambyss:custom/topaz_block",
+  "textures": {
+    "all": "ambyss:blocks/topaz_block",
+    "particle": "ambyss:blocks/topaz_block",
+    "0": "ambyss:blocks/topaz_block"
+  }
+}

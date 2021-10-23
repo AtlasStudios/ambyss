@@ -1,0 +1,8 @@
+{
+  "parent": "ambyss:custom/saphire_ore",
+  "textures": {
+    "all": "ambyss:blocks/sapphire_ore",
+    "particle": "ambyss:blocks/sapphire_ore",
+    "0": "ambyss:blocks/sapphire_ore"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "ambyss:custom/amethyst_block",
+  "textures": {
+    "all": "ambyss:blocks/amethyst_block",
+    "particle": "ambyss:blocks/amethyst_block",
+    "0": "ambyss:blocks/amethyst_block"
+  }
+}

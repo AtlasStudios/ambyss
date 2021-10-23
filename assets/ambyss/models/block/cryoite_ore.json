@@ -1,0 +1,8 @@
+{
+  "parent": "ambyss:custom/cryoite_ore",
+  "textures": {
+    "all": "ambyss:blocks/cryorite_ore",
+    "particle": "ambyss:blocks/cryorite_ore",
+    "0": "ambyss:blocks/cryorite_ore"
+  }
+}

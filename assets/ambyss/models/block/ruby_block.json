@@ -1,0 +1,8 @@
+{
+  "parent": "ambyss:custom/ruby_block",
+  "textures": {
+    "all": "ambyss:blocks/ruby_block",
+    "particle": "ambyss:blocks/ruby_block",
+    "0": "ambyss:blocks/ruby_block"
+  }
+}
