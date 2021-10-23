@@ -1,0 +1,48 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "ambyss:ruby"
+    },
+    "title": {
+      "translate": "advancements.get_ruby.title"
+    },
+    "description": {
+      "translate": "advancements.get_ruby.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_ruby": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "ambyss:ruby",
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "ambyss:ruby_helmet_recipe",
+      "ambyss:ruby_chestplate_recipe",
+      "ambyss:ruby_legging_recipe",
+      "ambyss:ruby_boot_recipe",
+      "ambyss:ruby_sword_recipe",
+      "ambyss:ruby_pickaxe_recipe",
+      "ambyss:ruby_axe_recipe",
+      "ambyss:ruby_shovel_recipe",
+      "ambyss:ruby_hoe_recipe"
+    ]
+  }
+}

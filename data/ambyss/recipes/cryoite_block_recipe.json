@@ -1,0 +1,42 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:cryoite"
+    },
+    "1": {
+      "item": "ambyss:cryoite"
+    },
+    "2": {
+      "item": "ambyss:cryoite"
+    },
+    "3": {
+      "item": "ambyss:cryoite"
+    },
+    "4": {
+      "item": "ambyss:cryoite"
+    },
+    "5": {
+      "item": "ambyss:cryoite"
+    },
+    "6": {
+      "item": "ambyss:cryoite"
+    },
+    "7": {
+      "item": "ambyss:cryoite"
+    },
+    "8": {
+      "item": "ambyss:cryoite"
+    }
+  },
+  "result": {
+    "item": "ambyss:cryoite_block",
+    "count": 1
+  }
+}

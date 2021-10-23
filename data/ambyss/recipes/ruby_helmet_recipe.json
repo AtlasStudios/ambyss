@@ -1,0 +1,32 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:ruby"
+    },
+    "1": {
+      "item": "ambyss:ruby"
+    },
+    "2": {
+      "item": "ambyss:ruby"
+    },
+    "3": {
+      "item": "ambyss:ruby"
+    },
+    "4": {
+      "item": "minecraft:netherite_helmet"
+    },
+    "5": {
+      "item": "ambyss:ruby"
+    }
+  },
+  "result": {
+    "item": "ambyss:rubyarmour_helmet",
+    "count": 1
+  }
+}

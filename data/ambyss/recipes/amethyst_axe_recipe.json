@@ -1,0 +1,30 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:amethyst"
+    },
+    "1": {
+      "item": "ambyss:amethyst"
+    },
+    "2": {
+      "item": "ambyss:amethyst"
+    },
+    "3": {
+      "item": "ambyss:ruby_axe"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ambyss:amethyst_axe",
+    "count": 1
+  }
+}

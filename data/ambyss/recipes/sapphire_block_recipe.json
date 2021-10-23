@@ -1,0 +1,42 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:sapphire"
+    },
+    "1": {
+      "item": "ambyss:sapphire"
+    },
+    "2": {
+      "item": "ambyss:sapphire"
+    },
+    "3": {
+      "item": "ambyss:sapphire"
+    },
+    "4": {
+      "item": "ambyss:sapphire"
+    },
+    "5": {
+      "item": "ambyss:sapphire"
+    },
+    "6": {
+      "item": "ambyss:sapphire"
+    },
+    "7": {
+      "item": "ambyss:sapphire"
+    },
+    "8": {
+      "item": "ambyss:sapphire"
+    }
+  },
+  "result": {
+    "item": "ambyss:sapphire_block",
+    "count": 1
+  }
+}

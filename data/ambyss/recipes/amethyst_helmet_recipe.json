@@ -1,0 +1,32 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:amethyst"
+    },
+    "1": {
+      "item": "ambyss:amethyst"
+    },
+    "2": {
+      "item": "ambyss:amethyst"
+    },
+    "3": {
+      "item": "ambyss:amethyst"
+    },
+    "4": {
+      "item": "ambyss:rubyarmour_helmet"
+    },
+    "5": {
+      "item": "ambyss:amethyst"
+    }
+  },
+  "result": {
+    "item": "ambyss:amethyst_armor_helmet",
+    "count": 1
+  }
+}

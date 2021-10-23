@@ -1,0 +1,42 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:ruby"
+    },
+    "1": {
+      "item": "ambyss:ruby"
+    },
+    "2": {
+      "item": "ambyss:ruby"
+    },
+    "3": {
+      "item": "ambyss:ruby"
+    },
+    "4": {
+      "item": "ambyss:ruby"
+    },
+    "5": {
+      "item": "ambyss:ruby"
+    },
+    "6": {
+      "item": "ambyss:ruby"
+    },
+    "7": {
+      "item": "ambyss:ruby"
+    },
+    "8": {
+      "item": "ambyss:ruby"
+    }
+  },
+  "result": {
+    "item": "ambyss:ruby_block",
+    "count": 1
+  }
+}

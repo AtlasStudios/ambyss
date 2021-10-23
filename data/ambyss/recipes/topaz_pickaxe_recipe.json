@@ -1,0 +1,30 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:topaz"
+    },
+    "1": {
+      "item": "ambyss:topaz"
+    },
+    "2": {
+      "item": "ambyss:topaz"
+    },
+    "4": {
+      "item": "ambyss:amethystpickaxe"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ambyss:topaz_pickaxe",
+    "count": 1
+  }
+}

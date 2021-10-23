@@ -1,0 +1,29 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:topaz"
+    },
+    "2": {
+      "item": "ambyss:topaz"
+    },
+    "3": {
+      "item": "ambyss:topaz"
+    },
+    "4": {
+      "item": "ambyss:amethyst_armor_boots"
+    },
+    "5": {
+      "item": "ambyss:topaz"
+    }
+  },
+  "result": {
+    "item": "ambyss:topaz_armor_boots",
+    "count": 1
+  }
+}

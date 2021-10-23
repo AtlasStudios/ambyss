@@ -1,0 +1,49 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "ambyss:sapphire"
+    },
+    "title": {
+      "translate": "advancements.get_sapphire.title"
+    },
+    "description": {
+      "translate": "advancements.get_sapphire.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_sapphire": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "ambyss:sapphire",
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "ambyss:sapphire_sword_recipe",
+      "ambyss:sapphire_pickaxe_recipe",
+      "ambyss:sapphire_axe_recipe",
+      "ambyss:sapphire_shovel_recipe",
+      "ambyss:sapphire_hoe_recipe",
+      "ambyss:sapphire_helmet_recipe",
+      "ambyss:sapphire_chestplate_recipe",
+      "ambyss:sapphire_leggings_recipe",
+      "ambyss:sapphire_leggings_recipe",
+      "ambyss:sapphire_boots_recipe"
+    ]
+  }
+}

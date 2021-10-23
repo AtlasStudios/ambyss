@@ -1,0 +1,27 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:cryoite"
+    },
+    "1": {
+      "item": "ambyss:cryoite"
+    },
+    "3": {
+      "item": "ambyss:topaz_hoe"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ambyss:cryoite_hoe",
+    "count": 1
+  }
+}

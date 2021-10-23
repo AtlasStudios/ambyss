@@ -1,0 +1,48 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "ambyss:amethyst"
+    },
+    "title": {
+      "translate": "advancements.get_amethyst.title"
+    },
+    "description": {
+      "translate": "advancements.get_amethyst.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_amethyst": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "ambyss:amethyst",
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "ambyss:amethyst_helmet_recipe",
+      "ambyss:amethyst_chestplate_recipe",
+      "ambyss:amethyst_legging_recipe",
+      "ambyss:amethyst_boot_recipe",
+      "ambyss:amethyst_sword_recipe",
+      "ambyss:amethyst_pickaxe_recipe",
+      "ambyss:amethyst_axe_recipe",
+      "ambyss:ruby_shovel_recipe",
+      "ambyss:amethyst_hoe_recipe"
+    ]
+  }
+}

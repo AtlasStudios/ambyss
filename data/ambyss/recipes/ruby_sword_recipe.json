@@ -1,0 +1,24 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:ruby"
+    },
+    "1": {
+      "item": "ambyss:ruby"
+    },
+    "2": {
+      "item": "minecraft:netherite_sword"
+    }
+  },
+  "result": {
+    "item": "ambyss:rubysword",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:sapphire"
+    },
+    "2": {
+      "item": "ambyss:sapphire"
+    },
+    "3": {
+      "item": "ambyss:sapphire"
+    },
+    "4": {
+      "item": "ambyss:cryoite_armor_boots"
+    },
+    "5": {
+      "item": "ambyss:sapphire"
+    }
+  },
+  "result": {
+    "item": "ambyss:sapphire_armor_boots",
+    "count": 1
+  }
+}

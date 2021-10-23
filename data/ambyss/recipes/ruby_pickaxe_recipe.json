@@ -1,0 +1,30 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:ruby"
+    },
+    "1": {
+      "item": "ambyss:ruby"
+    },
+    "2": {
+      "item": "ambyss:ruby"
+    },
+    "4": {
+      "item": "minecraft:netherite_pickaxe"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ambyss:rubypickaxe",
+    "count": 1
+  }
+}

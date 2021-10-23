@@ -1,0 +1,30 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:sapphire"
+    },
+    "1": {
+      "item": "ambyss:sapphire"
+    },
+    "2": {
+      "item": "ambyss:sapphire"
+    },
+    "4": {
+      "item": "ambyss:cryoite_pickaxe"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ambyss:sapphire_pickaxe",
+    "count": 1
+  }
+}

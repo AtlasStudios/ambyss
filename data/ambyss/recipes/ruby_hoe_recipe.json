@@ -1,0 +1,27 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:ruby"
+    },
+    "1": {
+      "item": "ambyss:ruby"
+    },
+    "3": {
+      "item": "minecraft:netherite_hoe"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ambyss:ruby_hoe",
+    "count": 1
+  }
+}

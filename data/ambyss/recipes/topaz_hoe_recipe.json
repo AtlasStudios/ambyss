@@ -1,0 +1,27 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:topaz"
+    },
+    "1": {
+      "item": "ambyss:topaz"
+    },
+    "3": {
+      "item": "ambyss:amethyst_hoe"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ambyss:topaz_hoe",
+    "count": 1
+  }
+}

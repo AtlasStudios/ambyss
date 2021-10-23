@@ -1,0 +1,42 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:topaz"
+    },
+    "1": {
+      "item": "ambyss:topaz"
+    },
+    "2": {
+      "item": "ambyss:topaz"
+    },
+    "3": {
+      "item": "ambyss:topaz"
+    },
+    "4": {
+      "item": "ambyss:topaz"
+    },
+    "5": {
+      "item": "ambyss:topaz"
+    },
+    "6": {
+      "item": "ambyss:topaz"
+    },
+    "7": {
+      "item": "ambyss:topaz"
+    },
+    "8": {
+      "item": "ambyss:topaz"
+    }
+  },
+  "result": {
+    "item": "ambyss:topaz_block",
+    "count": 1
+  }
+}

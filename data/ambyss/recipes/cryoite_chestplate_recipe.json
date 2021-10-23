@@ -1,0 +1,39 @@
+{
+  "group": "ambyss",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ambyss:cryoite"
+    },
+    "2": {
+      "item": "ambyss:cryoite"
+    },
+    "3": {
+      "item": "ambyss:cryoite"
+    },
+    "4": {
+      "item": "ambyss:topaz_armor_chestplate"
+    },
+    "5": {
+      "item": "ambyss:cryoite"
+    },
+    "6": {
+      "item": "ambyss:cryoite"
+    },
+    "7": {
+      "item": "ambyss:cryoite"
+    },
+    "8": {
+      "item": "ambyss:cryoite"
+    }
+  },
+  "result": {
+    "item": "ambyss:cryoite_armor_chestplate",
+    "count": 1
+  }
+}
